@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </div>
 
-<h1 align="center">🚀 Sayed Fuad Al Labib</h1>
-<p align="center">AI Developer | AI Enthusiast | MERN Stack Web Developer</p>
+<h1 align="center"> 👋 Sayed Fuad Al Labib </h1>
+<p align="center">🤖 AI Developer | AI Enthusiast | MERN Stack Web Developer 🌍</p>
 
 ---
 
@@ -65,10 +65,10 @@
 ---
 
 ## 🚀 **Projects & Contributions**
-✔ **🤖 AI Chatbots & Customer Support AI**  
-✔ **🎥 AI-Powered Image & Video Generation Models**  
-✔ **📊 Data Analysis & AI-Driven Insights**  
-✔ **🔍 Recommendation Systems & GEN AI Model Development**  
+✔ **🤖 AI Chatbots & Customer Support AI** 🗨️🤖  
+✔ **🎥 AI-Powered Image & Video Generation Models** 🎞️📸  
+✔ **📊 Data Analysis & AI-Driven Insights** 📈🔍  
+✔ **🔍 Recommendation Systems & GEN AI Model Development** 🏆🎯  
 
 ---
 
@@ -90,6 +90,6 @@
 ## 🏆 **GitHub Contributions**
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="GitHub Contributions Animation" width="100%" />
 
 <p align="center">🚀 <strong>“AI is the future, and I’m here to shape it!”</strong></p>
