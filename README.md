@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
 </div>
 
-<h1 align="center"> 👋 Sayed Fuad Al Labib </h1>
+<h1 align="center"> 👋 Hi I am Sayed Fuad Al Labib a.k.a AI Engineer </h1>
 <p align="center">🤖 AI Developer | AI Enthusiast | MERN Stack Web Developer 🌍</p>
 
 ---
