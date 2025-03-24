@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmadhavagarwal3012%2Fmadhavagarwal3012&psig=AOvVaw0fkThMvQmqvR44R1uuZeOD&ust=1742919200067000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiH8ZyOo4wDFQAAAAAdAAAAABAE" width="100%" />
 </div>
 
 <h1 align="center">🚀 Sayed Fuad Al Labib</h1>
@@ -65,10 +65,10 @@
 ---
 
 ## 🚀 **Projects & Contributions**
-✔ **AI Chatbots & Customer Support AI**  
-✔ **AI-Powered Image & Video Generation Models**  
-✔ **Data Analysis & AI-Driven Insights**  
-✔ **Recommendation Systems & GEN AI Model Development**  
+✔ **🤖 AI Chatbots & Customer Support AI**  
+✔ **🎥 AI-Powered Image & Video Generation Models**  
+✔ **📊 Data Analysis & AI-Driven Insights**  
+✔ **🔍 Recommendation Systems & GEN AI Model Development**  
 
 ---
 
@@ -86,5 +86,8 @@
 </p>
 
 ---
+
+## 🏆 **GitHub Contributions**
+![snake gif](https://github.com/sayedfuadallabib/sayedfuadallabib/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">🚀 <strong>“AI is the future, and I’m here to shape it!”</strong></p>
