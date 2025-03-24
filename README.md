@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmadhavagarwal3012%2Fmadhavagarwal3012&psig=AOvVaw0fkThMvQmqvR44R1uuZeOD&ust=1742919200067000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiH8ZyOo4wDFQAAAAAdAAAAABAE](https://i0.wp.com/bonaakubue.com/wp-content/uploads/2023/10/rear-view-programmer-working-all-night-long.jpg?fit=1000%2C667&ssl=1)" width="100%" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
 </div>
 
 <h1 align="center">🚀 Sayed Fuad Al Labib</h1>
@@ -88,6 +88,8 @@
 ---
 
 ## 🏆 **GitHub Contributions**
-![snake gif](https://github.com/sayedfuadallabib/sayedfuadallabib/blob/output/github-contribution-grid-snake.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 <p align="center">🚀 <strong>“AI is the future, and I’m here to shape it!”</strong></p>
