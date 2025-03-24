@@ -1,4 +1,6 @@
-![AI Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+</div>
 
 # 💻 **Sayed Fuad Al Labib**  
 ### 🚀 AI Developer | AI Enthusiast | MERN Stack Web Developer  
@@ -20,7 +22,7 @@
 ### 💻 **Programming & Development:**  
 ✔ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 ✔ ![MERN](https://img.shields.io/badge/MERN%20Stack-333?style=flat&logo=mongodb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-✔ **C, C++, C# (Unity Game Engine Experience)**  
+✔ ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)  
 
 ### ☁️ **Deployment & DevOps:**  
 ✔ ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)  
