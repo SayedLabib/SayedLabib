@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </div>
 
 # 💻 **Sayed Fuad Al Labib**  
@@ -16,7 +16,8 @@
 ### 🧠 **Artificial Intelligence & Machine Learning:**  
 ✔ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ✔ ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-✔ **NLP** | **Computer Vision** | **GEN AI** | **RAG** | **Fine-Tuning LLMs** | **Foundation Models**  
+✔ ![NLP](https://img.shields.io/badge/NLP-FF9800?style=flat&logo=google&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4CAF50?style=flat&logo=opencv&logoColor=white)  
+✔ ![GEN AI](https://img.shields.io/badge/GEN%20AI-800080?style=flat&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FFD700?style=flat&logo=ai&logoColor=black) ![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-1E88E5?style=flat&logo=tensorflow&logoColor=white)  
 ✔ ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FECC00?style=flat&logo=huggingface&logoColor=black) ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
 
 ### 💻 **Programming & Development:**  
