@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" width="100%" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
 </div>
 
-<h1 align="center"> 👋 Sayed Fuad Al Labib </h1>
+<h1 align="center"> 🚀 Sayed Fuad Al Labib </h1>
 <p align="center">🤖 AI Developer | AI Enthusiast | MERN Stack Web Developer 🌍</p>
 
 ---
@@ -90,6 +90,6 @@
 ## 🏆 **GitHub Contributions**
 <br clear="both">
 
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="GitHub Contributions Animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="GitHub Contributions Animation" width="100%" />
 
 <p align="center">🚀 <strong>“AI is the future, and I’m here to shape it!”</strong></p>
